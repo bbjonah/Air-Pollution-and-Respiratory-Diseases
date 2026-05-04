@@ -4,11 +4,14 @@
 This project explores the relationship between air pollution and respiratory health outcomes, focusing on conditions such as asthma and chronic respiratory diseases. Using data science techniques, we analyze how pollutants like PM2.5, NO₂, and SO₂ influence the number of reported respiratory cases.
 
 🎯 Objectives
+
 Analyze trends in air pollution levels over time
 Examine the relationship between pollution and respiratory diseases
 Build a predictive model for respiratory cases based on pollution levels
 Provide insights for public health decision-making
+
 📊 Dataset Description
+
 1. Air Pollution Data (air_pollution.csv)
 
 Contains environmental measurements:
@@ -31,7 +34,9 @@ Pandas
 NumPy
 Matplotlib
 Scikit-learn
+
 🧠 Methodology
+
 1. Data Preprocessing
 Converted date columns to datetime format
 Handled missing values
@@ -48,7 +53,9 @@ SO₂
 4. Evaluation Metrics
 Mean Squared Error (MSE)
 R² Score
+
 🚀 How to Run the Project
+
 Clone the repository:
 git clone https://github.com/your-username/air-pollution-health.git
 cd air-pollution-health
@@ -60,19 +67,26 @@ python main.py
 Scatter plot of actual vs predicted respiratory cases
 Model performance metrics (MSE, R²)
 Feature importance (pollutant impact)
+
 📌 Key Insights
+
 Higher pollution levels are associated with increased respiratory cases
 PM2.5 often shows the strongest impact
 Predictive models can help in early warning systems
+
 ⚠️ Limitations
+
 Synthetic dataset (not real-world data)
 Limited variables (no weather or demographic factors)
 Linear model may not capture complex relationships
+
 🔮 Future Improvements
+
 Incorporate real-world datasets
 Add weather and socioeconomic factors
 Use advanced models (Random Forest, XGBoost, LSTM)
 Build an interactive dashboard (Streamlit or Power BI)
+
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
