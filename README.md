@@ -1,6 +1,6 @@
 🌍 Air Pollution and Respiratory Diseases Analysis
-📌 Project Overview
 
+📌 Project Overview
 This project explores the relationship between air pollution and respiratory health outcomes, focusing on conditions such as asthma and chronic respiratory diseases. Using data science techniques, we analyze how pollutants like PM2.5, NO₂, and SO₂ influence the number of reported respiratory cases.
 
 🎯 Objectives
